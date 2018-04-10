@@ -1,0 +1,45 @@
+.content {
+	width: 40%;
+	margin: 16% auto;
+}
+
+.btn-primary {
+	width: 100%
+}
+
+.form-control {
+	margin: 9px 0px;
+}
+
+#regret {
+	color: red;
+}
+
+#time {
+	font-size: 2em;
+}
+
+table {
+	display: none;
+	text-align: center;
+	margin: 10px auto;
+}
+
+tr {
+	width: 100%;
+}
+
+td {
+	font-size: 45px; 
+	vertical-align: bottom;
+	text-align: center;
+	padding: 0 5px;
+}
+
+tr:nth-of-type(2) td{
+	font-size: 14px;
+	color: gray;
+	letter-spacing: 2px;
+	text-align: center;
+
+}
